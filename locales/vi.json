@@ -53,7 +53,7 @@
   "currentPoolSize": "Kích thước pool hiện tại",
   "yourPoolShare": "Chia sẻ pool của bạn",
   "noZero": "Số tiền không được bằng 0.",
-  "mustBeETH": "Một trong những đầu vào phải là HT.",
+  "mustBeETH": "Một trong những đầu vào phải là BTT.",
   "enterCurrencyOrLabelCont": "Nhập một {{ inputCurrency }} hoặc{{ label }} giá trị để tiếp tục.",
   "youAreAdding": "Bạn đang thêm",
   "and": "và",

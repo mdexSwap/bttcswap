@@ -53,7 +53,7 @@
   "currentPoolSize": "Current Pool Size",
   "yourPoolShare": "Your Pool Share",
   "noZero": "Amount cannot be zero.",
-  "mustBeETH": "One of the input must be HT.",
+  "mustBeETH": "One of the input must be BTT.",
   "enterCurrencyOrLabelCont": "Enter a {{ inputCurrency }} or {{ label }} value to continue.",
   "youAreAdding": "You are adding",
   "and": "and",

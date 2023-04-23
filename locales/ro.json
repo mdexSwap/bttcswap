@@ -53,7 +53,7 @@
   "currentPoolSize": "Volumul Actual al Fondului",
   "yourPoolShare": "Partea Ta din Fond",
   "noZero": "Cantitatea nu poate fi zero.",
-  "mustBeETH": "Una dintre valori trebuie să fie HT.",
+  "mustBeETH": "Una dintre valori trebuie să fie BTT.",
   "enterCurrencyOrLabelCont": "Setează o valoare pentru {{ inputCurrency }} sau {{ label }} pentru a continua. ",
   "youAreAdding": "Tu adaugi",
   "and": "și",

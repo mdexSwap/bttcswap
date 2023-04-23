@@ -53,7 +53,7 @@
   "currentPoolSize": "Tamanho atual da Poupança",
   "yourPoolShare": "Sua participação na Poupança",
   "noZero": "Quantidade não pode ser zero.",
-  "mustBeETH": "Uma das entradas precisa ser HT.",
+  "mustBeETH": "Uma das entradas precisa ser BTT.",
   "enterCurrencyOrLabelCont": "Insira um valor {{ inputCurrency }} ou {{ label }} para continuar.",
   "youAreAdding": "Você está adicionando",
   "and": "e",

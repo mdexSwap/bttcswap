@@ -52,7 +52,7 @@
   "currentPoolSize": "Dimensione attuale del pool",
   "yourPoolShare": "La tua parte di pool condivisa",
   "noZero": "L'importo non può essere zero.",
-  "mustBeETH": "Uno degli input deve essere HT.",
+  "mustBeETH": "Uno degli input deve essere BTT.",
   "enterCurrencyOrLabelCont": "Inserisci un valore {{ inputCurrency }} o {{ label }} per continuare.",
   "youAreAdding": "Stai agginugendo",
   "and": "e",
