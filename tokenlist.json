@@ -57,6 +57,15 @@
       "chainId": 199,
       "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/bttc/0x935faa2fcec6ab81265b301a30467bbc804b43d3.png"
+    },
+    {
+      "name": "FilDA",
+      "address": "0x680693effc3e8f61dabfb00150e8120682360a13",
+      "symbol": "FilDA",
+      "decimals": 18,
+      "chainId": 199,
+      "whitelist" : true,
+      "logoURI": "https://mdex.co/token-icons/bttc/0x680693effc3e8f61dabfb00150e8120682360a13.png"
     }
   ]
 }
